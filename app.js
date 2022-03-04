@@ -1,5 +1,4 @@
 const yargs = require('yargs')
-const { listNotes } = require('./notes.js')
 const notes = require('./notes.js')
 
 
